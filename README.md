@@ -27,12 +27,7 @@ I enjoy working with data, from SQL and Excel to Power BI, and turning it into m
 | **Data Analysis** | Working with SQL, Excel, and Power BI to understand data. |
 | **Applied AI** | Turning model capabilities into useful software. |
 
-## Featured Work
 
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**Fundamental Boost**](https://github.com/Dhairyapatel1mc/fundamental-booster) | Python | A Python project from my GitHub portfolio. |
-| [**red-white**](https://github.com/Dhairyapatel1mc/red-white) | Python | A Python project from my GitHub portfolio. |
 
 ## Research Direction
 
