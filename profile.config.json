@@ -1,67 +1,66 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Dhairya",
+    "username": "Dhairyapatel1mc",
+    "headline": "AI/ML Engineer",
+    "affiliation": "Independent",
+    "location": "Gujarat, India",
+    "status": "Learning / Building",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I am an AI/ML engineer focused on building practical machine learning systems with Python.",
+      "I enjoy working with data, from SQL and Excel to Power BI, and turning it into models and tools that are useful."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Machine Learning",
+    "direction": "Practical, reliable AI systems",
+    "themes": "Data / Modeling / Evaluation",
+    "narrative": "I am interested in turning data into dependable machine learning systems that are tested, measured, and useful in real work."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Machine Learning",
+      "description": "Building and evaluating models with Python."
+    },
+    {
+      "name": "Data Analysis",
+      "description": "Working with SQL, Excel, and Power BI to understand data."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
-    },
-    {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "description": "Turning model capabilities into useful software."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Fundamental Boost",
+      "url": "https://github.com/Dhairyapatel1mc/fundamental-booster",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "focus": "Python",
+      "summary": "A Python project from my GitHub portfolio.",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "red-white",
+      "url": "https://github.com/Dhairyapatel1mc/red-white",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
+      "focus": "Python",
+      "summary": "A Python project from my GitHub portfolio.",
       "heroLabel": "Active system"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "SQL",
+    "Excel",
+    "Power BI"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Dhairyapatel1mc",
+      "url": "https://github.com/Dhairyapatel1mc",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +72,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building thoughtful AI systems and sharing what works."
 }
