@@ -41,8 +41,6 @@ I am interested in turning data into dependable machine learning systems that ar
 
 <!-- AUTO:ACTIVITY:START -->
 - Nov 3, 2026: pushed 1 commit to [Dhairyapatel1mc/Practical-Test-Supervised-Learning-](https://github.com/Dhairyapatel1mc/Practical-Test-Supervised-Learning-).
-- Oct 26, 2026: created a branch in [Dhairyapatel1mc/PR.-5-Supervised-Learning-](https://github.com/Dhairyapatel1mc/PR.-5-Supervised-Learning-).
-- Oct 26, 2026: pushed 1 commit to [Dhairyapatel1mc/PR.-5-Supervised-Learning-](https://github.com/Dhairyapatel1mc/PR.-5-Supervised-Learning-).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
